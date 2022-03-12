@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/467167440.svg)](https://zenodo.org/badge/latestdoi/467167440)
+
 # Entanglement-Forging-with-GNN-models
 Doubling the size of VQCs with entanglement forging
 
